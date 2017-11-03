@@ -1,7 +1,7 @@
 const express = require("express"),
   cors = require("cors"),
   bodyParser = require("body-parser"),
-  port = 5000,
+  port = 3005,
   app = express();
 //, config = require('./config')
 //, session = require('express-session')
